@@ -1,2 +1,1 @@
-Command-Prompt
-Useful CMD commands
+Useful cmd commands

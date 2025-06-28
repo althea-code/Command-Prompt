@@ -1,0 +1,8 @@
+cli network commands
+
+ipconfig
+ipconfig /release
+ipconfig /renew
+ns lookup [dns name]
+ping [host name or ip address]
+*can use ipconfig, local default gateway in output, enter that into web browser, to login to router's remote management
